@@ -36,6 +36,8 @@ Address:             |
 Date:                |
 Attribution:         |  [ ] These Contributions are provided on behalf of myself as an individual. </br>  [ ] These Contributions are provided on behalf of my company as identified above. 
 
-Initial CLA Manager Name:
-Initical CLA Manager Email:
+
+**Initial CLA Manager Name**:
+
+**Initical CLA Manager Email**:
 
