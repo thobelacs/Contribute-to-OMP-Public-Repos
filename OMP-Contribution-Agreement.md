@@ -39,5 +39,5 @@ Attribution:         |  [ ] These Contributions are provided on behalf of myself
 
 **Initial CLA Manager Name**:
 
-**Initical CLA Manager Email**:
+**Initial CLA Manager Email**:
 
