@@ -25,19 +25,4 @@ applications therefore as well as copyrights, copy-right rights of use, however,
 Any source code you provide to the Project is subject to the Developer Certificate of Origin version 1.1, available
 at http://developercertificate.org/ and the license indicated in the Project’s source repository for the Materials.
 
-Field                | Description
----------------------|--------------------------------------------
-Your signature:      | 
-Print Name:          |
-Title:               | 
-Company Name:        |
-Email:               |
-Address:             |
-Date:                |
-Attribution:         |  [ ] These Contributions are provided on behalf of myself as an individual. </br>  [ ] These Contributions are provided on behalf of my company as identified above. 
-
-
-**Initial CLA Manager Name**:
-
-**Initial CLA Manager Email**:
 
