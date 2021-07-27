@@ -1,4 +1,4 @@
-# Open Manufacturing Platform Contribution Agreement
+# Open Manufacturing Platform Non-Member Contributor Feedback Agreement
 
 The **Open Manufacturing Platform** (the “Project”) would like to receive input, contributions, suggestions and other feedback (“Contributions”) on the 
 specifications, documents, source code, and other artifacts being developed within its working groups (the “Materials”). By signing below, 
