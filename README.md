@@ -82,7 +82,7 @@ If your company is in the system but you don't know who your CLA manager is, you
 If you run into issues, you can [open a ticket in JIRA](https://jira.linuxfoundation.org/plugins/servlet/theme/portal/4/create/143).
 
 
-Here are the steps to add EasyCLA to your project.
+Here are the steps to add EasyCLA to your repository.
 
 ### 1. Prepare your core contributors
 
