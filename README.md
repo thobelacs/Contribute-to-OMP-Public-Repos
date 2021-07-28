@@ -1,9 +1,9 @@
 # How to use this Repository
-This repository is dedicated to sign the CLA contract that protects OMP public repositories.
+This repository is dedicated to sign the Contributor License Agreement, (CLA) contract that protects OMP public repositories.
 
 # Open Manufacturing Platform (OMP) CLA
 
-The Open Manufacturing Platform (OMP) IP policy specifies that projects can adopt the OMP CLA. The Open Manufacturing Platform Steering Committee has adopted [Individual]() and [Corporate]() CLA.
+The Open Manufacturing Platform (OMP) IP policy specifies that projects can adopt the OMP CLA. The Open Manufacturing Platform Steering Committee has adopted a Contribution Acknowledgement CLA.
 
 OMP uses [EasyCLA](https://easycla.lfx.linuxfoundation.org/#/) to ensure that all contributors have signed the appropriate documents when contributing to a project which requires a CLA. This tool was created and is maintained by the Linux Foundation, and has a number of features designed to support our open source project communities:
 
@@ -86,13 +86,13 @@ Here are the steps to add EasyCLA to your project.
 
 ### 1. Prepare your core contributors
 
-The single most valuable thing you can do prior to adding EasyCLA is to ensure your core contributors have already been authorized. This minimizes the potential for disruption, and can be accomplished by them simply opening a trivial PR against this repo and [following the steps](#how-to-use-easycla). (Contributors who have already signed the OMP CLA in EasyCLA for another project do not need to do this.)
+The single most valuable thing you can do prior to adding EasyCLA is to ensure your core contributors have already been authorized. This minimizes the potential for disruption, and can be accomplished by them simply opening a trivial PR against this [repo](https://github.com/OpenManufacturingPlatform/Contribute-to-OMP-Public-Repos) and [following the steps](#how-to-use-easycla). (Contributors who have already signed the OMP CLA in EasyCLA for another OMP project do not need to do this.)
 
 You may also want to open an issue letting others know that this will be happening.
 
-### 2. Prepare your GitHub organization
+### 2. Prepare your GitHub repository
 
-You will need to add an OMP staff member to your org to set up EasyCLA for your organization. Reach out to [Brian Warner](mailto:operations@openjsf.org) to coordinate on the details.
+You will need to contact OMP staff member to setup EasyCLA for in your repository. Reach out to [Joaquin Prado](mailto:info@open-manufacturing.org) to coordinate on the details.
 
 ### 3. Add instructions to your project
 
@@ -103,7 +103,7 @@ Here is some suggested text you can use:
 ```
 This repository is managed by EasyCLA. Project participants must sign the free [OMP CLA](https://github.com/OpenManufacturingPlatform/Contribute-to-OMP-Public-Repos) before making a contribution. You only need to do this one time, and it can be signed by [individual contributors](https://github.com/OpenManufacturingPlatform/Contribute-to-OMP-Public-Repos#sign-as-an-individual) or their [employers](https://github.com/OpenManufacturingPlatform/Contribute-to-OMP-Public-Repos#have-your-company-sign-for-you).
 
-To initiate the signature process please open a PR against this repo. The EasyCLA bot will block the merge if we still need a CLA from you.
+To initiate the signature process please open a PR against this repo [Contribute-to-OMP-Public-Repos](https://github.com/OpenManufacturingPlatform/Contribute-to-OMP-Public-Repos). The EasyCLA bot will block the merge if we still need a CLA from you.
 
 You can find [detailed instructions here](https://github.com/OpenManufacturingPlatform/Contribute-to-OMP-Public-Repos). If you have issues, please email [info@open-manufacturing.org](mailto:info@open-manufacturing.org).
 
