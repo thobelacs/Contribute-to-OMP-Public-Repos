@@ -5,7 +5,8 @@
 
 Contributions to any Open Manufacturing Platform repository are made pursuant to either:
 
-A) the Open Manufacturing Platform membership agreements signed by my company; or
+A) the Open Manufacturing Platform membership agreements signed by my company; (OMP member companies) or
+
 B) if my organization is not a member of Open Manufacturing Platform, under the [Open Manufacturing Platform Non-Member Contributor Feedback Agreement](https://raw.githubusercontent.com/OpenManufacturingPlatform/Contribute-to-OMP-Public-Repos/main/OMP-Non-Member-Contributor-Feedback-Agreement.md) for non-members.
 
 Further, in the case of clause A above, I acknowledge that my organization has joined the working group of Open Manufacturing Platform to which the repository applies.
