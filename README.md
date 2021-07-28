@@ -3,7 +3,7 @@ This repository is dedicated to sign the Contributor License Agreement, (CLA) co
 
 # Open Manufacturing Platform (OMP) CLA
 
-The Open Manufacturing Platform (OMP) IP policy specifies that projects can adopt the OMP CLA. The Open Manufacturing Platform Steering Committee has adopted a Contribution Acknowledgement CLA.
+The Open Manufacturing Platform (OMP) IP policy specifies that projects can adopt the OMP CLA. The Open Manufacturing Platform Steering Committee has adopted a [Contribution Acknowledgement CLA](https://github.com/OpenManufacturingPlatform/Contribute-to-OMP-Public-Repos/blob/main/OMP-Contribution-Acknowledgement.md).
 
 OMP uses [EasyCLA](https://easycla.lfx.linuxfoundation.org/#/) to ensure that all contributors have signed the appropriate documents when contributing to a project which requires a CLA. This tool was created and is maintained by the Linux Foundation, and has a number of features designed to support our open source project communities:
 
