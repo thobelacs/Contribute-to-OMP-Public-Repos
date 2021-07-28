@@ -1,4 +1,4 @@
-# Open Manufacturing Platform Contribution Acknowlegement
+# Open Manufacturing Platform Contribution Acknowledgement
 
 > This document is provided as a reference, its content will be incorporated in the CLA contract available in the OMP EasyCLA bot. 
 > OMP members and non-members will need to sign this document via the EasyCLA in order to submit Pull Requests against OMP public repositories.
