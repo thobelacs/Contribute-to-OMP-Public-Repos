@@ -23,14 +23,14 @@ The individual workflow is for people who can make CLA commitments on their own 
 
 At a high level, the signature process works like this:
 
-1. Open a PR against a repo covered by EasyCLA (including this one).
+1. Open a PR against this [repo](https://github.com/OpenManufacturingPlatform/Contribute-to-OMP-Public-Repos) covered by EasyCLA (including this one).
 1. A bot will check whether your GitHub user is covered by a signed CLA.
 1. If you're already covered you will get a green checkmark, and your contribution can be merged.
 1. If you're not covered, you'll be prompted through the signature process.
 
 ### Initiating the signature process against a test repo
 
-The easiest way to initiate the process is to open a PR against any covered repo, including this one.
+The easiest way to initiate the process is to open a PR against any covered repo, including this [one](https://github.com/OpenManufacturingPlatform/Contribute-to-OMP-Public-Repos).
 
 If you simply want to sign the documents in preparation for future contributions, you can open a trivial PR against this file (for example, to fix this spleling error) and you will be prompted through the process. PRs against this repo will be closed periodically.
 
@@ -38,7 +38,7 @@ If you simply want to sign the documents in preparation for future contributions
 
 If you are working on your own behalf and can make IP commitments about what you produce, you can sign as an individual contributor. 
 
-1. Open a PR against a repo that uses EasyCLA.
+1. Open a PR against this [repo](https://github.com/OpenManufacturingPlatform/Contribute-to-OMP-Public-Repos) that uses EasyCLA.
 1. When blocked by the bot, follow the prompts and choose *Individual*.
 1. Fill in the details and sign the DocuSign form.
 1. Wait a little while for the check to re-run.
@@ -53,7 +53,7 @@ Here are the steps to have your company sign the CLA.
 
 ### If your company hasn't yet signed the agreement
 
-1. Open a PR against a repo that uses EasyCLA. (e.g., this one)
+1. Open a PR e.g., against this [repo](https://github.com/OpenManufacturingPlatform/Contribute-to-OMP-Public-Repos) that uses EasyCLA.
 1. When blocked by the bot, follow the prompts and choose *Corporate*.
 1. Choose your company from the list. If it's not there, add it.
 1. Designate someone with signing authority (generally an officer or attorney, if in doubt ask your manager) to receive the DocuSign. This person is the *CLA Manager*.
