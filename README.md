@@ -59,7 +59,7 @@ Here are the steps to have your company sign the CLA.
 1. Designate someone with signing authority (generally an officer or attorney, if in doubt ask your manager) to receive the DocuSign. This person is the *CLA Manager*.
 1. Follow up with the CLA Manager and ask them to sign the DocuSign form.
 1. The CLA Manager can now designate other CLA Managers who are allowed to manage your company's list of authorized contributors.
-1. The CLA Manager needs to perform the tasks in the [next section](Contribute-to-OMP-Public-Repos#when-your-company-has-finished-signing-the-agreement)
+1. The CLA Manager needs to perform the tasks in the [next section](#when-your-company-has-finished-signing-the-agreement)
 1. Once this is done, you'll need to click the *Details* link in the PR (again) and click a button that acknowledges you want to be covered by the company.
 1. Wait a little while for the check to re-run.
 
@@ -67,8 +67,10 @@ At this point, your PRs will no longer be blocked by EasyCLA on any OMP repo.
 
 ### When your company has finished signing the agreement
 
+These tasks are performed by the CLA Manager.
+
 1. Once the agreement is signed, any CLA manager can [log into the EasyCLA site](https://easycla.lfx.linuxfoundation.org/#/) (choose EasyCLA v2 if prompt it) and either:
-  * Add your GitHub username individually to the list of authorized contributors, or
+  * Add the contributor GitHub username individually to the list of authorized contributors, or
   * Add your corporate email domain, which authorizes anyone who has that email in their GitHub account, or
   * Add a corporate GitHub Organization, where any member of the org is covered by the CLA.
 ### Best practices
