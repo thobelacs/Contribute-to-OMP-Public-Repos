@@ -1,14 +1,16 @@
 # How to use this Repository
 This repository is dedicated for participants to sign the IPR Agreement that protects OMP public repositories.
 
+> Please note that signing this IPR Agreement doesn't imply [OMP Membership](https://open-manufacturing.org/get-involved/).
+
 # Open Manufacturing Platform (OMP) Contribution Acknowledgement
 
-Contributors to Open Manufacturing Platform (OMP) repositories agree to the terms of the OMP IP policies.
+Contributors to Open Manufacturing Platform (OMP) repositories must agree to the terms of the OMP IP policies.
 
 OMP uses [EasyCLA](https://easycla.lfx.linuxfoundation.org/#/) to ensure that all contributors have signed the appropriate documents. This tool was created and is maintained by the Linux Foundation, and has a number of features designed to support our open source project communities:
 
 * Once a contributor is authorized for one OMP project, the signature is recognized for any other OMP repos that use EasyCLA.
-* Contributors may sign as individuals, or their company can sign on their behalf.
+* Contributors may sign as individuals, or their company can sign on their behalf. *(as per company policy)*
 * Companies who sign the CLA can authorize employee usernames individually, add an entire email domain, or specify a GitHub organization containing their employees as members.
 
 There is no cost to signing the OMP CLA. Please note that this is different from [OMP Membership](https://open-manufacturing.org). If your organization relies upon our project, [please become a member](https://open-manufacturing.org/get-involved/). Membership dues are an essential source of funding, and we rely upon them to support the OMP ecosystem.
@@ -28,6 +30,13 @@ At a high level, the signature process works like this:
 1. If you're already covered you will get a green checkmark, and your contribution can be merged.
 1. If you're not covered, you'll be prompted through the signature process.
 
+#### High-Level Diagram
+
+The following is a high-level diagram, showing the different flows and roles that EasyCLA supports:
+
+![image](https://user-images.githubusercontent.com/3258579/138139396-311ac7e9-5150-41b6-a520-1968ec9ffeb4.png)
+
+> Note: Click [here](https://docs.linuxfoundation.org/lfx/easycla) to view EasyCLA Documentation.
 ### Initiating the signature process against a test repo
 
 The easiest way to initiate the process is to open a PR against any covered repo, including this one.
@@ -45,7 +54,8 @@ If you are working on your own behalf and can make IP commitments about what you
 
 That's all there is to it.
 
-## Have your company sign for you
+> Note: see further information on [Individual Contributor](https://docs.linuxfoundation.org/lfx/easycla/v2-current/contributors/individual-contributor)
+## Sign as a Company
 
 If you are doing work for someone else (e.g., it's your job), the company might need to sign for you. The advantage here is that they can authorize other employees with a single signature. If your company has already signed the document but you're still blocked, you may just need to request your username be added to the list of authorized contributors. Once this is complete you'll just have to confirm you work for them by clicking through the process one final time.
 
@@ -65,14 +75,19 @@ Here are the steps to have your company sign the CLA.
 
 At this point, your PRs will no longer be blocked by EasyCLA on any OMP repo.
 
+> Note: see further information on [Corporate Contributor](https://docs.linuxfoundation.org/lfx/easycla/v2-current/contributors/corporate-contributor).
+
 ### When your company has finished signing the agreement
 
-These tasks are performed by the CLA Manager.
+> These tasks are performed by the CLA Manager.
 
-1. Once the agreement is signed, any CLA manager can [log into the EasyCLA site](https://easycla.lfx.linuxfoundation.org/#/) (choose EasyCLA v2 if prompt it) and either:
-  * Add the contributor GitHub username individually to the list of authorized contributors, or
-  * Add your corporate email domain, which authorizes anyone who has that email in their GitHub account, or
-  * Add a corporate GitHub Organization, where any member of the org is covered by the CLA.
+1. Once the agreement is signed, any CLA manager can [log into the EasyCLA site](https://easycla.lfx.linuxfoundation.org/#/) *(choose EasyCLA v2 if prompt it)* and either:
+    * Add the contributor GitHub username individually to the list of authorized contributors, or
+    * Add your corporate email domain, which authorizes anyone who has that email in their GitHub account, or
+    * Add a corporate GitHub Organization, where any member of the org is covered by the CLA.
+
+> Note: click in this link to see further information on [Corporate CLA Managers](https://docs.linuxfoundation.org/lfx/easycla/v2-current/corporate-cla-managers).
+
 ### Best practices
 
 * Ask the CLA Manager to add the corporate email domain to the list of authorized contributors, or ask them to add your corporate GitHub organization. This is much easier than adding contributors individually.
@@ -82,6 +97,8 @@ These tasks are performed by the CLA Manager.
 If your company is in the system but you don't know who your CLA manager is, you can email [info@open-manufacturing.org](mailto:info@open-manufacturing.org).
 
 If you run into issues, you can [open a ticket in JIRA](https://jira.linuxfoundation.org/plugins/servlet/theme/portal/4/create/143).
+
+> [Training video on how to use EasyCLA](https://linuxfoundation.org/webinars/lfx-easycla-streamline-your-development-workflow/ )
 
 
 Here are the steps to add EasyCLA to your repository.
