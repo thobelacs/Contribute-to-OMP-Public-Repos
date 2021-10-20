@@ -41,20 +41,20 @@ The following is a high-level diagram, showing the different flows and roles tha
 
 The easiest way to initiate the process is to open a PR against any covered repo, including this one.
 
-If you simply want to sign the documents in preparation for future contributions, you can open a trivial PR against this file (for example, to fix this spleling error) and you will be prompted through the process. PRs against this repo will be closed periodically.
+If you simply want to sign the documents in preparation for future contributions, you can open a trivial PR against, e.g. a file in this repository and you will be prompted through the process. PRs against this repo will be closed periodically.
 
 ## Sign as an individual
 
 If you are working on your own behalf and can make IP commitments about what you produce, you can sign as an individual contributor. 
 
-1. Open a PR against this repo that uses EasyCLA.
+1. Open a PR against this [file](https://github.com/OpenManufacturingPlatform/Contribute-to-OMP-Public-Repos/edit/main/Raise-a-PR-against-this-file.md) that uses EasyCLA.
 1. When blocked by the bot, follow the prompts and choose *Individual*.
 1. Fill in the details and sign the DocuSign form.
 1. Wait a little while for the check to re-run.
 
 That's all there is to it.
 
-> Note: see further information on [Individual Contributor](https://docs.linuxfoundation.org/lfx/easycla/v2-current/contributors/individual-contributor)
+> Note: click in the link for further information on [Individual Contributor](https://docs.linuxfoundation.org/lfx/easycla/v2-current/contributors/individual-contributor)
 ## Sign as a Company
 
 If you are doing work for someone else (e.g., it's your job), the company might need to sign for you. The advantage here is that they can authorize other employees with a single signature. If your company has already signed the document but you're still blocked, you may just need to request your username be added to the list of authorized contributors. Once this is complete you'll just have to confirm you work for them by clicking through the process one final time.
@@ -63,7 +63,7 @@ Here are the steps to have your company sign the CLA.
 
 ### If your company hasn't yet signed the agreement
 
-1. Open a PR e.g., against this repo that uses EasyCLA.
+1. Open a PR e.g., against this [file](https://github.com/OpenManufacturingPlatform/Contribute-to-OMP-Public-Repos/edit/main/Raise-a-PR-against-this-file.md) that uses EasyCLA.
 1. When blocked by the bot, follow the prompts and choose *Corporate*.
 1. Choose your company from the list. If it's not there, add it.
 1. Designate someone with signing authority (generally an officer or attorney, if in doubt ask your manager) to receive the DocuSign. This person is the *CLA Manager*.
@@ -75,7 +75,7 @@ Here are the steps to have your company sign the CLA.
 
 At this point, your PRs will no longer be blocked by EasyCLA on any OMP repo.
 
-> Note: see further information on [Corporate Contributor](https://docs.linuxfoundation.org/lfx/easycla/v2-current/contributors/corporate-contributor).
+> Note: click in the link for further information on [Corporate Contributor](https://docs.linuxfoundation.org/lfx/easycla/v2-current/contributors/corporate-contributor).
 
 ### When your company has finished signing the agreement
 
@@ -98,7 +98,7 @@ If your company is in the system but you don't know who your CLA manager is, you
 
 If you run into issues, you can [open a ticket in JIRA](https://jira.linuxfoundation.org/plugins/servlet/theme/portal/4/create/143).
 
-> [Training video on how to use EasyCLA](https://linuxfoundation.org/webinars/lfx-easycla-streamline-your-development-workflow/ )
+> Note: click in the link [training video](https://linuxfoundation.org/webinars/lfx-easycla-streamline-your-development-workflow/ ) to see how to use EasyCLA.
 
 
 Here are the steps to add EasyCLA to your repository.
