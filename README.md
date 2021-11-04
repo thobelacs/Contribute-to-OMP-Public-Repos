@@ -61,7 +61,7 @@ If you are doing work for someone else (e.g., it's your job), the company might 
 
 Here are the steps to have your company sign the CLA.
 
-### If your company hasn't yet signed the agreement
+### If you contribute onbehalf of your company
 
 1. Open a PR e.g., against this [file](https://github.com/OpenManufacturingPlatform/Contribute-to-OMP-Public-Repos/edit/main/Raise-a-PR-against-this-file.md) that uses EasyCLA.
 1. When blocked by the bot, follow the prompts and choose *Corporate*.
