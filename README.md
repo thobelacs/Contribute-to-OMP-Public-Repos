@@ -66,12 +66,14 @@ Here are the steps to have your company sign the CLA.
 1. Open a PR e.g., against this [file](https://github.com/OpenManufacturingPlatform/Contribute-to-OMP-Public-Repos/edit/main/Raise-a-PR-against-this-file.md) that uses EasyCLA.
 1. When blocked by the bot, follow the prompts and choose *Corporate*.
 1. Choose your company from the list. If it's not there, add it.
-1. Designate someone with signing authority (generally an officer or attorney, if in doubt ask your manager) to receive the DocuSign. This person is the *CLA Manager*.
-1. Follow up with the CLA Manager and ask them to sign the DocuSign form.
-1. The CLA Manager can now designate other CLA Managers who are allowed to manage your company's list of authorized contributors.
-1. The CLA Manager needs to perform the tasks in the [next section](#when-your-company-has-finished-signing-the-agreement)
-1. Once this is done, you'll need to click the *Details* link in the PR (again) and click a button that acknowledges you want to be covered by the company.
-1. Wait a little while for the check to re-run.
+> --- if your company hasn't asigned a CLA Manager yet ---
+4. Designate someone with signing authority (generally an officer or attorney, if in doubt ask your manager) to receive the DocuSign. This person is the *CLA Manager*.
+5. Follow up with the CLA Manager and ask them to sign the DocuSign form.
+6. The CLA Manager can now designate other CLA Managers who are allowed to manage your company's list of authorized contributors.
+7. The CLA Manager needs to perform the tasks in the [next section](#when-your-company-has-finished-signing-the-agreement)
+> --- end of CLA Manager envolvement ---
+8. Once this is done, you'll need to click the *Details* link in the PR (again) and click a button that acknowledges you want to be covered by the company.
+9. Wait a little while for the check to re-run.
 
 At this point, your PRs will no longer be blocked by EasyCLA on any OMP repo.
 
